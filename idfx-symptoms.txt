@@ -1,3 +1,4 @@
+tires
 blown fuse
 brake fluid leak
 emission test failure
