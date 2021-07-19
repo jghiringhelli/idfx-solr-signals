@@ -1,0 +1,213 @@
+blown fuse
+brake fluid leak
+emission test failure
+engine backfire
+engine stalling
+engine surges
+idles rough
+low engine power
+parasitic draw
+battery drain
+power steering fluid leak
+runs lean
+engine coolant leak
+a/c compressor clutch
+a/c performance
+daytime running lamps
+automatic transmission communication
+automatic transmission engagement harsh
+automatic transmission engagement delayed
+automatic transmission shifter
+automatic transmission selector
+automatic transmission shifting
+automatic transmission slipping
+automatic transmission car won't move
+back-up lights
+blower motor
+brake lights
+brake performance
+brakes control communication
+traction control communication
+other hybrid drive
+power sliding door
+remote start
+parking assist
+visual assist
+convertible top bar
+convertible roll bar
+retractable top bar
+retractable roll bar
+sun roof
+t-top
+trunk
+tailgate
+liftgate
+window defroster
+antenna
+head-up display
+infrared display
+engine cooling fan
+stability control
+engine accessory drive noise
+navigation
+gps
+seat belt operation
+abs pump runs continuously
+brakes dragging
+brakes overheating
+hard pedal
+low pedal
+pedal goes to floor
+engine oil consumption excessive
+high voltage battery
+regenerative braking
+cellular communication
+cellular on-star
+traction control light
+traction control message
+anti-lock brakes
+traction control false cycling
+traction control faulty operation
+axle noise
+axle vibration
+automatic transmission noise
+automatic transmission vibration
+charging system indicator light
+charging system indicator message
+charging voltage
+chassis electrical communication
+condenser fan
+cruise control communication
+cruise control hunting
+cruise control surging
+cruise control indicator light
+cruise control indicator message
+cruise control set
+cruise control cancel
+differential operation
+drive line noise
+drive line vibration
+emission control device
+engine cooling performance
+engine cranking
+engine fluid leaks
+engine fluid contamination
+engine hesitation
+engine sag
+engine bog
+engine idle speed
+engine idle stability
+engine misfire
+engine buck
+engine jerk
+engine mounting related
+engine performance starting
+engine performance communication
+engine ping
+spark knock
+engine throttle
+entertainment system
+fog lights
+fuel injection
+fuel supply
+head lights
+heated seat
+heater
+defroster
+horn
+hvac air distribution
+hvac communication
+hvac noise
+hvac odor
+hvac temperature control
+hvac warning light
+hvac warning message
+hvac warning display
+hybrid drive motor
+hybrid drive generator
+ignition system
+instruments
+meters
+indicators
+interior related
+interior lighting
+dash lighting
+light reminder
+light chime
+lighting system communication
+manual restraint warning lamp
+manual restraint warning chime
+manual transmission shifting
+manual transmission noise
+manual transmission vibration
+manual clutch noise
+manual clutch vibration
+manual transmission operation
+manual clutch operation
+anti-lock brakes control
+anti-lock traction control
+parking brake
+parking lights
+power locks
+keyless entry
+power mirror
+power seat
+power steering operation
+power window
+ride height
+ride quality
+ride stability
+runs rich
+poor fuel economy
+steering noise
+steering vibration
+suspension noise
+suspension vibration
+supplemental restraint communication
+supplemental restraint warning lamp
+supplemental restraint warning chime
+suspension system light
+suspension system message
+tail lights
+tire pressure monitoring system
+tire wear is abnormal
+torque converter clutch operation
+trailer connector
+transfer case noise
+transfer case vibration
+4wd noise
+4wd vibration
+transfer case shifting
+transfer case engagement
+4wd shifting
+4wd case engagement
+automatic transmission fluid leak
+turn signal
+hazard lights
+wiper
+washer
+engine malfunction indicator lamp
+security
+anti-theft
+immobilizer
+body exterior
+exhaust noise
+exhaust vibration
+exhaust odor
+exhaust smoke
+engine lubrication
+ignition lock cylinder
+service reminder illuminated
+maintenance reminder illuminated
+instrument panel gauge
+instrument panel meter
+trailer brake system
+adjustable pedal
+mainshaft bearing
+heated steering wheel
+brake noise
+brake vibration
+brake odor
+engine mechanical noise
+engine mechanical vibration
+engine odor
