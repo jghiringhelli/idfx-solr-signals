@@ -1736,9 +1736,6 @@ opening angle
 opening assist
 opening panel
 operating unit
-or code
-or front
-or rear
 orifice evo
 out relay
 out switch
